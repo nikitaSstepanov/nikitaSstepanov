@@ -4,7 +4,7 @@ I like working on interesting projects
 
 About me:
 
-* I'm 16 y.o.
+* I'm 17 y.o.
 * Student 👨‍🎓📚
 * Backend beginner 👨‍💻
 * I'm coding in C#, TypeScript

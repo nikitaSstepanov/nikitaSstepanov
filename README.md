@@ -4,5 +4,5 @@ About me:
 
 * I'm 17 y.o.
 * Student 👨‍🎓📚
-* Backend beginner 👨‍💻
+* Backend developer 👨‍💻
 * I'm coding in Golang, C#

@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Nikita 👋</h1>
 
+<p align="center">
+    <img src="./assets/gifs/corgi.gif" width="350" height="350" />
+</p>
+
 <details>
 <summary>Info</summary>
 
@@ -62,6 +66,4 @@
 
 </details>
 
-<p align="center">
-    <img src="./assets/gifs/corgi.gif" width="350" height="350" />
-</p>
+

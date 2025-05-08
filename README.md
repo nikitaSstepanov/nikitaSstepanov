@@ -2,7 +2,7 @@
     <img src="./assets/gifs/corgi.gif" width="350" height="350" />
 </p>
 
-<h2>Hi, I'm Nikita 👋</h2>
+<h2>Hi there 👋</h2>
 
 <details>
 <summary>Info</summary>

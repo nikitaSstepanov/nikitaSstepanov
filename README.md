@@ -6,6 +6,7 @@
 * I'm 17 y.o.
 * Student 👨‍🎓📚
 * Backend and DevOps developer 👨‍💻
+* <a href="https://github.com/coffee-proj">Coffee Project</a> member and co-owner
 
 </details>
 
@@ -61,3 +62,6 @@
 
 </details>
 
+<p align="center">
+    <img src="./assets/gifs/corgi.gif" width="350" height="350" />
+</p>

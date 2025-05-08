@@ -1,11 +1,13 @@
 <h1 align="center">Hi, I'm Nikita 👋</h1>
 
-About me:
+<details>
+<summary>Info</summary>
 
 * I'm 17 y.o.
 * Student 👨‍🎓📚
-* Backend developer 👨‍💻
-* I'm coding in Golang, C#
+* Backend and DevOps developer 👨‍💻
+
+</details>
 
 <details>
 <summary>Skills</summary>
@@ -47,3 +49,15 @@ About me:
 </p>
 
 </details>
+
+<details>
+<summary>Сontact with me</summary>
+
+<p>
+    <a href="https://t.me/nikitasstepanov">
+        <img src="./assets/connect/telegram.svg" height=48 width=48/>
+    </a>
+</p>
+
+</details>
+

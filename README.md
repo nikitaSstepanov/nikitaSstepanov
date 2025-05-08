@@ -17,53 +17,24 @@
 <details>
 <summary>Skills</summary>
 
-### Languages
+#### Languages
 
-<p>
-    <a href="https://go.dev">
-        <img src="./assets/skills/go.svg" height=48 width=48 />
-    </a>
-    <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
-        <img src="./assets/skills/csharp.svg" height=48 width=48 />
-    </a>
-</p>
+[<img src="./assets/skills/go.svg" height=48 width=48 />](https://go.dev) [<img src="./assets/skills/csharp.svg" height=48 width=48 />](https://dotnet.microsoft.com/en-us/languages/csharp)
 
-### Databases and Brokers
 
-<p>
-    <a href="https://www.postgresql.org">
-        <img src="./assets/skills/postgres.svg" height=48 width=48/>
-    </a>
-    <a href="https://redis.io">
-        <img src="./assets/skills/redis.svg" height=48 width=48 />
-    </a>
-    <a href="https://kafka.apache.org">
-        <img src="./assets/skills/kafka.svg" height=48 width=48 />
-    </a>
-</p>
+#### Databases and Brokers
 
-### DevOps
+[<img src="./assets/skills/postgres.svg" height=48 width=48/>](https://www.postgresql.org) [<img src="./assets/skills/redis.svg" height=48 width=48 />](https://redis.io) [<img src="./assets/skills/kafka.svg" height=48 width=48 />](https://kafka.apache.org)
 
-<p>
-    <a href="https://kubernetes.io">
-        <img src="./assets/skills/k8s.svg" height=48 width=48/>
-    </a>
-    <a href="https://www.docker.com">
-        <img src="./assets/skills/docker.svg" height=48 width=48 />
-    </a>
-</p>
+#### DevOps
+
+[<img src="./assets/skills/k8s.svg" height=48 width=48/>](https://kubernetes.io) [<img src="./assets/skills/docker.svg" height=48 width=48 />](https://www.docker.com)
 
 </details>
 
 <details>
 <summary>Сontact with me</summary>
 
-<p>
-    <a href="https://t.me/nikitasstepanov">
-        <img src="./assets/connect/telegram.svg" height=48 width=48/>
-    </a>
-</p>
+[<img src="./assets/connect/telegram.svg" height=48 width=48/>](https://t.me/nikitasstepanov)
 
 </details>
-
-

@@ -19,7 +19,7 @@
 
 #### Languages
 
-[<img src="./assets/skills/go.svg" height=48 width=48 />](https://go.dev)
+[<img src="./assets/skills/go.svg" height=48 width=48 />](https://go.dev) [<img src="./assets/skills/rust.svg" height=48 width=48 />](https://www.rust-lang.org)
 
 #### Databases and Brokers
 
@@ -34,6 +34,6 @@
 <details>
 <summary>Сontact with me</summary>
 
-[<img src="./assets/connect/telegram.svg" height=48 width=48/>](https://t.me/nikitasstepanov)
+[<img src="./assets/connect/telegram.svg" height=48 width=48/>](https://t.me/nikitasstepanov) [<img src="./assets/connect/mail.svg" height=52 width=52 />](mailto:ns_stepanov@inbox.ru)
 
 </details>

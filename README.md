@@ -19,8 +19,7 @@
 
 #### Languages
 
-[<img src="./assets/skills/go.svg" height=48 width=48 />](https://go.dev) [<img src="./assets/skills/csharp.svg" height=48 width=48 />](https://dotnet.microsoft.com/en-us/languages/csharp)
-
+[<img src="./assets/skills/go.svg" height=48 width=48 />](https://go.dev)
 
 #### Databases and Brokers
 

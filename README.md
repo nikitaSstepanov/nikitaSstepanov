@@ -19,7 +19,7 @@
 
 #### Languages
 
-[<img src="./assets/skills/go.svg" height=48 width=48 />](https://go.dev)
+[<img src="./assets/skills/go.svg" height=48 width=48 />](https://go.dev) [<img src="./assets/skills/java.svg" height=50 width=50 />](https://www.java.com)
 
 #### Databases and Brokers
 

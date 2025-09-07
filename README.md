@@ -23,7 +23,7 @@
 
 #### Databases and Brokers
 
-[<img src="./assets/skills/postgres.svg" height=48 width=48/>](https://www.postgresql.org) [<img src="./assets/skills/redis.svg" height=48 width=48 />](https://redis.io) [<img src="./assets/skills/kafka.svg" height=48 width=48 />](https://kafka.apache.org) [<img src="./assets/skills/minio.svg" height=48 width=60 />](https://min.io)
+[<img src="./assets/skills/postgres.svg" height=48 width=48/>](https://www.postgresql.org) [<img src="./assets/skills/redis.svg" height=48 width=48 />](https://redis.io) [<img src="./assets/skills/kafka.svg" height=48 width=48 />](https://kafka.apache.org) [<img src="./assets/skills/minio.svg" height=49 width=61 />](https://min.io)
 
 #### DevOps
 
